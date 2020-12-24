@@ -1,0 +1,189 @@
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfoInputs.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfo.cs
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CoreCompileInputs.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.deps.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.dev.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.Manifest.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.xml
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Volvo.Frota.API.styles.css
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.RazorTargetAssemblyInfo.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CopyComplete
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.genruntimeconfig.cache
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Volvo\VolvoEnterprise\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csprojAssemblyReference.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.deps.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.dev.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csprojAssemblyReference.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.RazorTargetAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.Manifest.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.xml
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.deps.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.runtimeconfig.dev.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csprojAssemblyReference.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.RazorTargetAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.Manifest.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\staticwebassets\Volvo.Frota.API.StaticWebAssets.xml
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\services\Volvo.Frota.API\obj\Debug\netcoreapp3.1\Volvo.Frota.API.genruntimeconfig.cache

@@ -1,0 +1,1259 @@
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.deps.json
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.json
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.dev.json
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csprojAssemblyReference.cache
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfoInputs.cache
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfo.cs
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CoreCompileInputs.cache
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CopyComplete
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.genruntimeconfig.cache
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Volvo\VolvoEnterprise\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.deps.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.dev.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csprojAssemblyReference.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Volvo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.exe
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.deps.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.runtimeconfig.dev.json
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\bin\Debug\netcoreapp3.1\Volvo.Frota.API.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csprojAssemblyReference.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.dll
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.pdb
+C:\Users\wagne\OneDrive\Área de Trabalho\Novo\src\testes\Volvo.Frota.Test\obj\Debug\netcoreapp3.1\Volvo.Frota.Test.genruntimeconfig.cache
